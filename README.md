@@ -89,4 +89,4 @@ Press on Ctrl + D
 
 *Collaborators*
 Frank Kuloba
-Gerald ROtich
+Gerald Rotich
