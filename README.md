@@ -78,3 +78,15 @@ write (man 2 write)
 
 Usage
 Step 1: Clone our repository using this command, (you need to have git installed on your machine first) git clone https://github.com/Garlinsk/simple_shell
+Step 2: Change directory to simple_shell: cd simple_shell
+
+Step 3: Compile the C files in this way: gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
+
+Step 4: Run the shell ./hsh
+
+*To exit the shell:*
+Press on Ctrl + D
+
+*Collaborators*
+Frank Kuloba
+Gerald ROtich
