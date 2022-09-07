@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * execution - executes commands entered by users
+ * execution - executes user-entered commands
  *@cp: command
  *@cmd:vector array of pointers to commands
  * Return: 0

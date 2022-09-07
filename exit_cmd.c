@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
-* exit_cmd - handles the exit command
+* exit_cmd - handles exit command
 * @command: tokenized command
 * @line: input read from stdin
 *

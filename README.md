@@ -86,7 +86,7 @@ Step 3: Compile the C files in this way: gcc -Wall -Werror -Wextra -pedantic *.c
 Step 4: Run the shell ./hsh
 
 To exit the shell:
-Press on Ctrl + D
+Press Ctrl + D
 
 ##Collaborators
 Frank Kuloba
