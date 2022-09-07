@@ -34,7 +34,7 @@ char *append_path(char *path, char *command)
 		buf[i] = '/';
 		i++;
 	}
-	while (command[])
+	while (command[j])
 	{
 		buf[i + j] = command[j];
 		j++;
