@@ -20,7 +20,7 @@ int _putchar(char c)
 */
 int print_s(char *s)
 {
-	int i = 0;
+	int i = ;
 
 	while (s[i] != '\0')
 	{
