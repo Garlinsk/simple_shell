@@ -1,4 +1,5 @@
-*simple_shell project repository*
+##simple_shell project repository
+
 This a simple shell program that GCC can be used to compile it.
 
 *Table of contents*
@@ -6,14 +7,14 @@ What is shell?
 
 Authorized functions and macros
 
-Usage
+##Usage
 
-Collaborators
+##Collaborators
 
-What is Shell?
+##What is Shell?
 The shell is the layer of programming that understands and executes the commands a user enters. In some systems, the shell is called a command interpreter. A shell usually implies an interface with a command syntax. This project is a simple version of the linux shell
 
-Authorized functions and macros
+##Authorized functions and macros
 access (man 2 access)
 
 chdir (man 2 chdir)
@@ -76,7 +77,7 @@ wait4 (man 2 wait4)
 
 write (man 2 write)
 
-Usage
+##Usage
 Step 1: Clone our repository using this command, (you need to have git installed on your machine first) git clone https://github.com/Garlinsk/simple_shell
 Step 2: Change directory to simple_shell: cd simple_shell
 
@@ -87,6 +88,6 @@ Step 4: Run the shell ./hsh
 To exit the shell:
 Press on Ctrl + D
 
-*Collaborators*
+##Collaborators
 Frank Kuloba
 Gerald Rotich
